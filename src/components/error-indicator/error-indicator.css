@@ -1,0 +1,22 @@
+.error-indicator {
+    border: 1px solid lightgray;
+    margin: 10%;
+    padding: 10%;
+    background: black;
+    color: orange;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.er-in-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.er-in-content img {
+    background: orange;
+    border-radius: 5px;
+    margin: 10px;
+}

@@ -1,0 +1,41 @@
+
+
+.book-list-item {
+    width: 475px;
+    display: flex;
+    margin: 15px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.book-cover {
+    margin-right: 30px;
+    margin-bottom: 15px;
+}
+
+.image-cover {
+    width: 200px;
+}
+
+.book-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-bottom: 10px;
+}
+
+.book-title {
+    font-size: 22px;
+    color: blue;
+    font-weight: bold;
+}
+
+.book-author {
+    font-weight: bold;
+}
+
+.book-price {
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}

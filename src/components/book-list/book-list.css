@@ -1,0 +1,19 @@
+
+
+.book-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    flex-wrap: wrap;
+    height: 730px;
+    overflow: auto;
+}
+
+.bord-bot {
+    border-top: 1px solid lightgray;
+    margin-top: 30px
+}
+
+
+
+
